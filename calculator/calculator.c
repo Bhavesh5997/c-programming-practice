@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
+
 #define   SIZE   10
 //*******************************************************************************************************
 // FUNCTION FOR 5 BASIC OPERATORS [Sum, multiplication, subtraction, division, modulo] :
@@ -647,5 +648,3 @@ int main()
 
     return 0;
 }
-
-
